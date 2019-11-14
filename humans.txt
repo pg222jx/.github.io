@@ -1,0 +1,35 @@
+
+                                
+    /* TEAM */
+
+                                
+    Your title: Pernilla Göth
+
+                                
+    Instagram: wutheringstorm
+
+                                
+    Location: Gothenburg, Sweden
+
+
+    							
+    /* THANKS */
+
+    							
+    Name: Pernilla Göth
+                    
+
+
+    /* SITE */
+
+                                
+    Last update: 2019-11-14
+
+                                
+    Standards: HTML5, CSS3
+
+                                
+    Components: Jekyll
+
+       
+                            
