@@ -4,7 +4,8 @@
  .site-header {
     border-bottom: 1px solid $grey-color-light;
     min-height: $spacing-unit * 4;
-    background: url(.../images/Me.jpg);
+    background: url(../images/header.jpg); 
+    background-position: center;
   
     // Positioning context for the mobile navigation icon
     position: relative;
