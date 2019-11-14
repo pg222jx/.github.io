@@ -23,7 +23,7 @@ email: pernilla.goeth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Det här är en enkel sida byggd för kursen 1dv022 på Linneuniversitet.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "pg222jx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pg222jx
 twitter_usernamne: wutheringstorm
 
