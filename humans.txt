@@ -3,30 +3,20 @@
     /* TEAM */
 
                                 
-    Your title: Pernilla Göth
+    Name: Pernilla Göth
 
+    Github: pg222jx
                                 
     Instagram: wutheringstorm
 
                                 
-    Location: Gothenburg, Sweden
+    
 
-
-    							
-    /* THANKS */
-
-    							
-    Name: Pernilla Göth
                     
-
-
     /* SITE */
 
                                 
-    Last update: 2019-11-14
-
-                                
-    Standards: HTML5, CSS3
+    Last update: 2019-11-15
 
                                 
     Components: Jekyll
